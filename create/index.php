@@ -100,7 +100,7 @@ if (isset ($_POST["item"])) {
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 
         $result = curl_exec($ch);
-        curl_close($ch);https://api.telegram.org/file/7047137904:AAGNGGGIWfJssjl9qE03zkXFAVKqeJS8DRU/documents/file_2.jpg
+        curl_close($ch);
 
         $result = json_decode($result, true);
 

@@ -9,7 +9,7 @@ To set up the IdolCS Laravel project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Nobita246/idolcsapi.git
    ```
 
 2. **Install dependencies:**

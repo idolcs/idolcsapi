@@ -1,6 +1,5 @@
 <?php
 
-die('hello');
 include "../env/db.php";
 include "../env/tg.php";
 

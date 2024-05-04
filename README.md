@@ -16,6 +16,10 @@ To set up the IdolCS Laravel project, follow these steps:
    ```bash
    composer update
    ```
+   for Hostinger it's `composer2`, so,
+    ```bash
+    composer2 update
+    ```
 
 3. **Run migrations:**
    ```bash
